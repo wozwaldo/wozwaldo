@@ -11,6 +11,7 @@
 <img src="https://raw.githubusercontent.com/wozwaldo/wozwaldo/master/assets/woz.gif" width="600" height="auto" />
 
 <br>
+
 ## 💻 My Tech Stack:
 
 [![My Tech Stack](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,docker,git,nodejs,npm,stackoverflow,swift,vscode,discord,figma,notion)](https://skillicons.dev)
