@@ -4,12 +4,13 @@
 <br><br>
 <pre>
     💻 Frontend dev | 2D Illustrator | Part-time Ninja
-    🌱 Currently learning backend technologies
+    🌱 Currently learning backend & web3 technologies
     🎮 Art • Games • Anime • Code • Music
     ⚡️ Connect with me on <a target= "_blank" href="https://www.linkedin.com/in/berilbutun/">LinkedIn</a>
 </pre>
 <img src="https://raw.githubusercontent.com/wozwaldo/wozwaldo/master/assets/woz.gif" width="600" height="auto" />
 
-<br><br><br>
+<br><br>
+
     
 </div>
