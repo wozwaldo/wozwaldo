@@ -9,8 +9,8 @@
     ⚡️ Connect with me on <a target= "_blank" href="https://www.linkedin.com/in/berilbutun/">LinkedIn</a>
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-    ![GIF Açıklaması](./assets/woz.gif)
+<img src="https://raw.githubusercontent.com/wozwaldo/wozwaldo/master/assets/woz.gif" height="40" />
+
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
