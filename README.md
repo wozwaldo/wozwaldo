@@ -9,7 +9,7 @@
     ⚡️ Connect with me on <a target= "_blank" href="https://www.linkedin.com/in/berilbutun/">LinkedIn</a>
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/wozwaldo/wozwaldo/master/assets/woz.gif" width="1300" height="auto" />
+<img src="https://raw.githubusercontent.com/wozwaldo/wozwaldo/master/assets/woz.gif" width="1000" height="auto" />
 
 <br><br><br>
     
