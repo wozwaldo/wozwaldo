@@ -10,9 +10,9 @@
 </pre>
 <img src="https://raw.githubusercontent.com/wozwaldo/wozwaldo/master/assets/woz.gif" width="600" height="auto" />
 
-<br><br>
+<br>
 ## My Tech Stack
 
-[![My Tech Stack](https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,docker,figma,git,jquery,nodejs,notion,npm,phpstorm,py,stackoverflow,swift,vscode)](https://skillicons.dev)
+[![My Tech Stack](https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,docker,figma,git,jquery,nodejs,notion,npm,py,stackoverflow,swift,vscode)](https://skillicons.dev)
     
 </div>
