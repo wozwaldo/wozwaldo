@@ -14,6 +14,6 @@
 
 ## 🔭 My Tech Stack
 
-[![My Tech Stack](https://skillicons.dev/icons?i=js,html,css,react,ts,jquery,docker,git,nodejs,npm,stackoverflow,swift,cursor,vscode,discord,figma,notion)](https://skillicons.dev)
+[![My Tech Stack](https://skillicons.dev/icons?i=js,html,css,react,ts,jquery,docker,git,nodejs,npm,stackoverflow,swift,vscode,discord,figma,notion)](https://skillicons.dev)
     
 </div>
